@@ -1,0 +1,33 @@
+# C programming running notes
+
+### Day-1
+
+- [Helloworld program](helloworld.c)
+  - In this program i have added just a header `#include<stdio.h>` and inside the `main()` I just call the `printf("Helloword")`.
+- [variables and datatypes](variables.c)
+
+  - **Declaration:**
+    - datatype variable_name | eg: `int a;`
+    - you can also initialize at the time of declaration. | eg: `int a =10;`
+  - **Datatypes and formate specifiers:**
+
+    | Data Type                       | Keyword              | Size (Bytes) | Format Specifier |
+    | ------------------------------- | -------------------- | ------------ | ---------------- |
+    | Integer                         | `int`                | 4            | `%d`             |
+    | Character                       | `char`               | 1            | `%c`             |
+    | Floating Point                  | `float`              | 4            | `%f`             |
+    | Double Precision Floating Point | `double`             | 8            | `%lf`            |
+    | Void                            | `void`               | 0            | N/A              |
+    | Short Integer                   | `short`              | 2            | `%hd`            |
+    | Long Integer                    | `long`               | 4 or 8       | `%ld`            |
+    | Long Long Integer               | `long long`          | 8            | `%lld`           |
+    | Unsigned Integer                | `unsigned int`       | 4            | `%u`             |
+    | Unsigned Character              | `unsigned char`      | 1            | `%c`             |
+    | Unsigned Short Integer          | `unsigned short`     | 2            | `%hu`            |
+    | Unsigned Long Integer           | `unsigned long`      | 4 or 8       | `%lu`            |
+    | Unsigned Long Long Integer      | `unsigned long long` | 8            | `%llu`           |
+    | Signed Integer                  | `signed int`         | 4            | `%d`             |
+    | Signed Character                | `signed char`        | 1            | `%c`             |
+    | Signed Short Integer            | `signed short`       | 2            | `%hd`            |
+    | Signed Long Integer             | `signed long`        | 4 or 8       | `%ld`            |
+    | Signed Long Long Integer        | `signed long long`   | 8            | `%lld`           |
