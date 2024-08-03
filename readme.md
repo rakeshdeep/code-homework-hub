@@ -9,6 +9,11 @@
   - **Declaration:**
     - datatype variable_name | eg: `int a;`
     - you can also initialize at the time of declaration. | eg: `int a =10;`
+
+    - **Some key points on variable:**
+        - variable is the name of a memory location which is used to store some value inside the memory.
+        - variable also a identifier because it refers a name of a memory location.
+        
   - **Datatypes and formate specifiers:**
 
     | Data Type                       | Keyword              | Size (Bytes) | Format Specifier |
@@ -35,3 +40,7 @@
  - [playing with printf & scanf](day-1/user_input.c)
     - taking user input using `scanf` and printing in the terminal using `printf`.
     - also using formate specifiers like `%s` for char array, `%d` for integer and so on.
+
+ - [Control Structure](day-1/control_structure):
+    - [if-else | if-else-if | nested-if](day-1/control_structure/if-else-if.c)
+    - 
