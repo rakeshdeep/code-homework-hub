@@ -2,9 +2,9 @@
 
 ### Day-1
 
-- [Helloworld program](helloworld.c)
+- [Helloworld program](day-1/helloworld.c)
   - In this program i have added just a header `#include<stdio.h>` and inside the `main()` I just call the `printf("Helloword")`.
-- [variables and datatypes](variables.c)
+- [variables and datatypes](day-1/variables.c)
 
   - **Declaration:**
     - datatype variable_name | eg: `int a;`
@@ -31,3 +31,7 @@
     | Signed Short Integer            | `signed short`       | 2            | `%hd`            |
     | Signed Long Integer             | `signed long`        | 4 or 8       | `%ld`            |
     | Signed Long Long Integer        | `signed long long`   | 8            | `%lld`           |
+
+ - [playing with printf & scanf](day-1/user_input.c)
+    - taking user input using `scanf` and printing in the terminal using `printf`.
+    - also using formate specifiers like `%s` for char array, `%d` for integer and so on.
