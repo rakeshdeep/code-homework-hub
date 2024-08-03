@@ -43,4 +43,4 @@
 
  - [Control Structure](day-1/control_structure):
     - [if-else | if-else-if | nested-if](day-1/control_structure/if-else-if.c)
-    - 
+    - [switch-case](day-1/control_structure/switch-case.c)
