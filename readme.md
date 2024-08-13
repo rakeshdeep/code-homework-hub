@@ -1,8 +1,8 @@
 # C programming running notes
 
-### HomeWork:
+### [HomeWork:](/homeworks/)
 
- - 13 aug 2024
+ - [13 aug 2024](/homeworks/13-08-2024/)
     - [WAP to calculate the perimeter of rectangle.](/homeworks/13-08-2024/perimeter-rectangle.c)
     - [WAP to swap two number entered by user.](/homeworks/13-08-2024/swap-two-number.c)
     - [WAP to sift the last digit to the first position. if the input is a 3 digit number.](/homeworks/13-08-2024/sift-third-digit-to-first.c)
