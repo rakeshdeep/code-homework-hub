@@ -1,55 +1,18 @@
-# C programming running notes
+# C programming tasks
 
-### [HomeWork:](/homeworks/)
+## [HomeWork:](/homeworks/)
 
- - [13 aug 2024](/homeworks/13-08-2024/)
+ - ### [13 aug 2024](/homeworks/13-08-2024/)
     - [WAP to calculate the perimeter of rectangle.](/homeworks/13-08-2024/perimeter-rectangle.c)
     - [WAP to swap two number entered by user.](/homeworks/13-08-2024/swap-two-number.c)
     - [WAP to sift the last digit to the first position. if the input is a 3 digit number.](/homeworks/13-08-2024/sift-third-digit-to-first.c)
-    - [WAP to optain the sum of the first and last digit of a four digit number enter by user](/homeworks/13-08-2024/sum-of-first-and-last-digit.c)
+    - [WAP to optain the sum of the first and last digit of a four digit number enter by user](/homeworks/13-08-2024/sum-of-first-and-last-digit.c).
 
-### Day-1
-
-- [Helloworld program](day-1/helloworld.c)
-  - In this program i have added just a header `#include<stdio.h>` and inside the `main()` I just call the `printf("Helloword")`.
-- [variables and datatypes](day-1/variables.c)
-
-  - **Declaration:**
-    - datatype variable_name | eg: `int a;`
-    - you can also initialize at the time of declaration. | eg: `int a =10;`
-
-    - **Some key points on variable:**
-        - variable is the name of a memory location which is used to store some value inside the memory.
-        - variable also a identifier because it refers a name of a memory location.
-        
-  - **Datatypes and formate specifiers:**
-
-    | Data Type                       | Keyword              | Size (Bytes) | Format Specifier |
-    | ------------------------------- | -------------------- | ------------ | ---------------- |
-    | Integer                         | `int`                | 4            | `%d`             |
-    | Character                       | `char`               | 1            | `%c`             |
-    | Floating Point                  | `float`              | 4            | `%f`             |
-    | Double Precision Floating Point | `double`             | 8            | `%lf`            |
-    | Void                            | `void`               | 0            | N/A              |
-    | Short Integer                   | `short`              | 2            | `%hd`            |
-    | Long Integer                    | `long`               | 4 or 8       | `%ld`            |
-    | Long Long Integer               | `long long`          | 8            | `%lld`           |
-    | Unsigned Integer                | `unsigned int`       | 4            | `%u`             |
-    | Unsigned Character              | `unsigned char`      | 1            | `%c`             |
-    | Unsigned Short Integer          | `unsigned short`     | 2            | `%hu`            |
-    | Unsigned Long Integer           | `unsigned long`      | 4 or 8       | `%lu`            |
-    | Unsigned Long Long Integer      | `unsigned long long` | 8            | `%llu`           |
-    | Signed Integer                  | `signed int`         | 4            | `%d`             |
-    | Signed Character                | `signed char`        | 1            | `%c`             |
-    | Signed Short Integer            | `signed short`       | 2            | `%hd`            |
-    | Signed Long Integer             | `signed long`        | 4 or 8       | `%ld`            |
-    | Signed Long Long Integer        | `signed long long`   | 8            | `%lld`           |
-
- - [playing with printf & scanf](day-1/user_input.c)
-    - taking user input using `scanf` and printing in the terminal using `printf`.
-    - also using formate specifiers like `%s` for char array, `%d` for integer and so on.
-
- - [Control Structure](day-1/control_structure):
-    - [if-else | if-else-if | nested-if](day-1/control_structure/if-else-if.c)
-    - [switch-case](day-1/control_structure/switch-case.c)
-    - [odd-even](day-1/control_structure/odd-even.c)
+    
+ - ### [14 august 2024](/homeworks/14-08-2024/).
+    - [WAP to check user entered number is an Odd or Even](/homeworks/14-08-2024/odd-even.c).
+    - [WAP to find greatest among 3 number using ternary operator](/homeworks/14-08-2024/greatest-among-three.c).
+    - [WAP to check the ASCII code of a user entered char](/homeworks/14-08-2024/ascii-check.c).
+    - [WAP to check the value of sin30](/homeworks/14-08-2024/check-sin30.c).
+    - [WAP to swap two numbers using third variable](/homeworks/14-08-2024/num-swap-using-third-variable.c).
+    - [WAP a program to add 2 in all digit of a five digit number entered by the user](/homeworks/14-08-2024/add2-in-all-digit-of-5-digit-num.c)
