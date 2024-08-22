@@ -1,6 +1,18 @@
 # All programming Home-work from University
 
-## [C HomeWork:](/c/homeworks/)
+## Contents
+ - [Classwork](#c-classwork)
+ - [homework](#c-homework)
+ - Assignments
+
+### [C ClassWork](/classwork/)
+ - #### [20 aug 2024](/c/classwork/)
+   - [WAP to check greatest number between three number using nested If-else condition](/c/classwork/20-08-2024/greatest-number-among3-using-nested-if.c).
+   - [Check whether a triangle is valid or not.](/c/classwork/20-08-2024/check-valid-triangle.c)
+   - [calculate the ratio of two int number if the ratio is greater then 0 then swap the number using 3rd variable.](/c/classwork/20-08-2024/check-ratio.c)
+
+
+### [C HomeWork:](/c/homeworks/)
 
  - #### [13 aug 2024](/c/homeworks/13-08-2024/)
     - [WAP to calculate the perimeter of rectangle.](/c/homeworks/13-08-2024/perimeter-rectangle.c)
