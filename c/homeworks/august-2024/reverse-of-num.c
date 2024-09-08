@@ -1,3 +1,4 @@
+/*WAP to reverse a 3 digit number entered by the user*/
 #include <stdio.h>
 
 int main() {
