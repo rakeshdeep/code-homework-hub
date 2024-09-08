@@ -39,5 +39,15 @@
   26. [WAP to print all Even integer between 1 to 20 using For Loop](/c/homeworks/august-2024/even-num-btw-1-20.c)
   27. [WAP to print the sum of first 50 natural number using FOR loop](/c/homeworks/august-2024/sum-of-first-50-natural-num.c)
   28. [WAP to find the factorial of a given number using FOR loop](/c/homeworks/august-2024/factorial-using-for.c)
-  29.
-  30.
+  29. [WAP to print the sum of each digit of a 3 digit number using FOR loop](/c/homeworks/august-2024/sum-of-each-digit-of-3.c).
+  30. [WAP to check the number entered by user is a palindrom Number or Not.](/c/homeworks/august-2024/palindrom.c)
+  31. [WAP to find a day from week using switch-case](/c/homeworks/august-2024/day-from-week-switch-case.c)
+  32. [WAP to Check whether the given character is a Vowel or not using switch-case](/c/homeworks/august-2024/vowel-check.c)
+  33. [WAP to perform Arithmetic operations using switch-case](/day-1/control_structure/switch-case.c).
+  34. 
+  35. 
+  36. 
+  37. 
+  38. 
+  39. 
+  40. 

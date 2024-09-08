@@ -1,3 +1,4 @@
+/*WAP to check the number entered by user is a palindrom Number or Not.*/
 #include <stdio.h>
 
 int main() {

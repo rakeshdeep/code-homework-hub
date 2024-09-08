@@ -1,3 +1,4 @@
+/*WAP to perform Arithmetic operations using switch-case*/
 #include<stdio.h>
 
 void main() {
