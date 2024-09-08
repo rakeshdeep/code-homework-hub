@@ -9,15 +9,15 @@ void main() {
         printf("Enter a number: ");
         scanf("%d", &num);
 
-        if (num < 0) { 
+        if (num < 0) {
             break;
         }
 
         if (first) {
             max = num;
-            first = 0;  
+            first = 0;
         } else if (num > max) {
-            max = num;r
+            max = num;
         }
     }
 

@@ -5,18 +5,18 @@
 void main() {
     int count = 0;
     float num, sum = 0.0, average;
-    printf("Enter numbers (enter a negative number to stop): \n");
+    printf("Enter numbers to check SUM and AVG of all. (enter a negative number to stop): \n");
 
     while (1) {
         printf("Enter a number: ");
         scanf("%f", &num);
 
-        if (num < 0) { 
+        if (num < 0) {
             break;
         }
 
-        sum += num; 
-        count++;     
+        sum += num;
+        count++;
     }
     if (count != 0) {
         average = sum / count;

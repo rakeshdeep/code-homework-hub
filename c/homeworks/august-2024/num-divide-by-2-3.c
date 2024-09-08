@@ -3,7 +3,7 @@
 
 int main()
 {
-    int num =0;
+    int num =1;
 
     printf("Number which are divisible by 2 & 3 between 1 to 100 is:\n");
 
