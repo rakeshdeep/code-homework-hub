@@ -55,5 +55,5 @@
       - [right-angle-triangle](/c/homeworks/august-2024/star-pattern/right-angle-triangle.c)
       - [Equilateral-triangle](/c/homeworks/august-2024/star-pattern/equilateral-triangle.c)
       - [Diamond](/c/homeworks/august-2024/star-pattern/diamond.c)
-      - [Binary-pattern](/c/homeworks/august-2024/star-pattern/binary-pattern.c)
+      - [Number-pattern](/c/homeworks/august-2024/star-pattern/number-pattern.c)
       - [Alphabet-pattern](/c/homeworks/august-2024/star-pattern/alphabet-pattern.c)

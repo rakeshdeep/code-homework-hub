@@ -1,9 +1,10 @@
-/*DO YOURSELF */
+
+/*DO YOURSELF*/
 /*or Star this repository and wait...*/
 /*
-A
-AB
-ABC
-ABCD
-ABCDE
+1
+22
+333
+4444
+55555
 */
