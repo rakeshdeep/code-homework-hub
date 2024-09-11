@@ -50,4 +50,8 @@
   37. 
   38. 
   39. 
-  40. 
+  40. [STAR PATTERN](/c/homeworks/august-2024/star-pattern/)
+      - [square](/c/homeworks/august-2024/star-pattern/square.c)
+      - [right-angle-triangle](/c/homeworks/august-2024/star-pattern/right-angle-triangle.c)
+      - [Equilateral-triangle](/c/homeworks/august-2024/star-pattern/equilateral-triangle.c)
+      - [Diamond](/c/homeworks/august-2024/star-pattern/diamond.c)
