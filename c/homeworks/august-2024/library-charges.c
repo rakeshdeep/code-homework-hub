@@ -31,5 +31,7 @@ int main()
     {
         printf("No fine");
     }
-    printf("You Need to pay fine of %.2f rupee\n",fine);
+    if(fine>0){
+        printf("You Need to pay fine of %.2f rupee\n",fine);
+    }
 }
