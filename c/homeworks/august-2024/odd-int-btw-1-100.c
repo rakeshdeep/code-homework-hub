@@ -1,4 +1,4 @@
-/*WAP to print the sum of all Odd integer between 1 to 100*/
+/*WAP to print the sum of all Odd integer between 1 to 100 using While loop*/
 #include<stdio.h>
 
 void main() {

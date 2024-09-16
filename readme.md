@@ -35,7 +35,7 @@
   22. [WAP to calculate the sum of each digit of a number entered by the user using while loop](/c/homeworks/august-2024/sum-of-each-digit.c)
   23. [WAP to find the total and average of numbers entered by the user using a while loop.](/c/homeworks/august-2024/sum-avg.c)
   24. [WAP to find the maximum among the numbers entered by the user using a while loop.](/c/homeworks/august-2024/max-num-entered.c)
-  25. [WAP to print the sum of all Odd integer between 1 to 100](/c/homeworks/august-2024/odd-int-btw-1-100.c)
+  25. [WAP to print the sum of all Odd integer between 1 to 100 using While loop](/c/homeworks/august-2024/odd-int-btw-1-100.c)
   26. [WAP to print all Even integer between 1 to 20 using For Loop](/c/homeworks/august-2024/even-num-btw-1-20.c)
   27. [WAP to print the sum of first 50 natural number using FOR loop](/c/homeworks/august-2024/sum-of-first-50-natural-num.c)
   28. [WAP to find the factorial of a given number using FOR loop](/c/homeworks/august-2024/factorial-using-for.c)
@@ -45,7 +45,7 @@
   32. [WAP to Check whether the given character is a Vowel or not using switch-case](/c/homeworks/august-2024/vowel-check.c)
   33. [WAP to perform Arithmetic operations using switch-case](/day-1/control_structure/switch-case.c). [WAP to display fibonacci series using FOR loop](/c/homeworks/august-2024/fibonacci-series.c)
   34. [Write a program to generate a series: X/1! + X^2/2! + X^3/3! + ... + X^n/n!](/c/homeworks/august-2024/power-series.c)
-  35. 
+  35. [WAP to check whether the number is an Armstrong number or not.](/c/homeworks/august-2024/armstrong.c)
   36. 
   37. 
   38. 
