@@ -57,8 +57,13 @@
       - [Diamond](/c/homeworks/august-2024/star-pattern/diamond.c)
       - [Number-pattern](/c/homeworks/august-2024/star-pattern/number-pattern.c)
       - [Alphabet-pattern](/c/homeworks/august-2024/star-pattern/alphabet-pattern.c)
+  
+  41. [Array](/c/homeworks/array/)
+      - [delete array element](/c/classwork/array/delete_element.c)
+      - [Reverse of Array](/c/classwork/array/reverse_arr.c)
+      - [Duplicate element remove from array](/c/classwork/array/duplicate_elemet_remove.c)
 
-  41. [Matrix](/code-homework-hub/c/classwork/matrix/)
+  42. [Matrix](/code-homework-hub/c/classwork/matrix/)
       - [input and print](/c/classwork/matrix/input_print_matrix.c)
       - [matrix addition](/c/classwork/matrix/matrix_addition.c)
       - [Multiplication](/c/classwork/matrix/matrix_multi.c)
