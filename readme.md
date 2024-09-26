@@ -59,7 +59,7 @@
       - [Alphabet-pattern](/c/homeworks/august-2024/star-pattern/alphabet-pattern.c)
 
   41. [Matrix](/code-homework-hub/c/classwork/matrix/)
-      - [input and print](/code-homework-hub/c/classwork/matrix/input_print_matrix.c)
-      - [matrix addition](/code-homework-hub/c/classwork/matrix/matrix_addition.c)
-      - [Multiplication](/code-homework-hub/c/classwork/matrix/matrix_multi.c)
-      - [Transpose](/code-homework-hub/c/classwork/matrix/transpose_of_matrix.c)
+      - [input and print](/c/classwork/matrix/input_print_matrix.c)
+      - [matrix addition](/c/classwork/matrix/matrix_addition.c)
+      - [Multiplication](/c/classwork/matrix/matrix_multi.c)
+      - [Transpose](/c/classwork/matrix/transpose_of_matrix.c)
