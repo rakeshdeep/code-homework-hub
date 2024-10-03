@@ -57,9 +57,24 @@
       - [Diamond](/c/homeworks/august-2024/star-pattern/diamond.c)
       - [Number-pattern](/c/homeworks/august-2024/star-pattern/number-pattern.c)
       - [Alphabet-pattern](/c/homeworks/august-2024/star-pattern/alphabet-pattern.c)
+  
+  41. [Array](/c/homeworks/array/)
+      - [delete array element](/c/classwork/array/delete_element.c)
+      - [Reverse of Array](/c/classwork/array/reverse_arr.c)
+      - [Duplicate element remove from array](/c/classwork/array/duplicate_elemet_remove.c)
 
-  41. [Matrix](/code-homework-hub/c/classwork/matrix/)
-      - [input and print](/code-homework-hub/c/classwork/matrix/input_print_matrix.c)
-      - [matrix addition](/code-homework-hub/c/classwork/matrix/matrix_addition.c)
-      - [Multiplication](/code-homework-hub/c/classwork/matrix/matrix_multi.c)
-      - [Transpose](/code-homework-hub/c/classwork/matrix/transpose_of_matrix.c)
+  42. [Matrix](/code-homework-hub/c/classwork/matrix/)
+      - [input and print](/c/classwork/matrix/input_print_matrix.c)
+      - [matrix addition](/c/classwork/matrix/matrix_addition.c)
+      - [Multiplication](/c/classwork/matrix/matrix_multi.c)
+      - [Transpose](/c/classwork/matrix/transpose_of_matrix.c)
+
+# Python Assignment
+ - [Home work](#py-assignments)
+
+ ### py Assignments
+ 1. [Write a program to demonstrate the usage of various arithmetic operators.](/python/assignment/arithmetic_operator.py)
+ 2. [Write a program that makes use of trigonometric functions available in math module.](/python/assignment/trigo_math.py)
+ 3. [Write a program that will convert various temperatures.(a) Fahrenheit to Centigrade (b) Centigrade to Fahrenheit](/python/assignment/f_to_c_c_to_f.py)
+ 4. [Write a program that will find the roots of a quadratic equation: ax² + bx + c = 0](/python/assignment/quadratic_equation.py)
+ 
