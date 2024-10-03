@@ -68,3 +68,13 @@
       - [matrix addition](/c/classwork/matrix/matrix_addition.c)
       - [Multiplication](/c/classwork/matrix/matrix_multi.c)
       - [Transpose](/c/classwork/matrix/transpose_of_matrix.c)
+
+# Python Assignment
+ - [Home work](#py-assignments)
+
+ ### py Assignments
+ 1. [Write a program to demonstrate the usage of various arithmetic operators.](/python/assignment/arithmetic_operator.py)
+ 2. [Write a program that makes use of trigonometric functions available in math module.](/python/assignment/trigo_math.py)
+ 3. [Write a program that will convert various temperatures.(a) Fahrenheit to Centigrade (b) Centigrade to Fahrenheit](/python/assignment/f_to_c_c_to_f.py)
+ 4. [Write a program that will find the roots of a quadratic equation: ax² + bx + c = 0](/python/assignment/quadratic_equation.py)
+ 
