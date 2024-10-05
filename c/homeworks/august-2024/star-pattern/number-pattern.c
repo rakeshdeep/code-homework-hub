@@ -1,10 +1,16 @@
+#include<stdio.h>
 
-/*DO YOURSELF*/
-/*or Star this repository and wait...*/
-/*
-1
-22
-333
-4444
-55555
-*/
+void main()
+{
+    int n;
+    printf("Enter num of row : ");
+    scanf("%d",&n);
+    for(int i=1; i<=n; i++)
+    {
+        for(int j=0; j<i; j++)
+        {
+            printf("%d",i);
+        }
+        printf("\n");
+    }
+}
