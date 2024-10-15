@@ -43,7 +43,8 @@
   30. [WAP to check the number entered by user is a palindrom Number or Not.](/c/homeworks/august-2024/palindrom.c)
   31. [WAP to find a day from week using switch-case](/c/homeworks/august-2024/day-from-week-switch-case.c)
   32. [WAP to Check whether the given character is a Vowel or not using switch-case](/c/homeworks/august-2024/vowel-check.c)
-  33. [WAP to perform Arithmetic operations using switch-case](/day-1/control_structure/switch-case.c). [WAP to display fibonacci series using FOR loop](/c/homeworks/august-2024/fibonacci-series.c)
+  33. [WAP to perform Arithmetic operations using switch-case](/day-1/control_structure/switch-case.c).
+  34. [WAP to display fibonacci series using FOR loop](/c/homeworks/august-2024/fibonacci-series.c)
   34. [Write a program to generate a series: X/1! + X^2/2! + X^3/3! + ... + X^n/n!](/c/homeworks/august-2024/power-series.c)
   35. [WAP to check whether the number is an Armstrong number or not.](/c/homeworks/august-2024/armstrong.c)
   36. 
