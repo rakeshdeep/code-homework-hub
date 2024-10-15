@@ -68,6 +68,10 @@
       - [matrix addition](/c/classwork/matrix/matrix_addition.c)
       - [Multiplication](/c/classwork/matrix/matrix_multi.c)
       - [Transpose](/c/classwork/matrix/transpose_of_matrix.c)
+  43. [String](/code-homework-hub/c/classwork/october)
+      - [calculate viowel ,constant and space](c/classwork/october/calculate-viowel-constant-space.c)
+      - [print character by character](c/classwork/october/print-character-by-character.c)
+      - [calculate number of space](c/classwork/october/no-of-space.c)
 
 # Python Assignment
  - [Home work](#py-assignments)
