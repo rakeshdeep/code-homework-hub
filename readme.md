@@ -69,11 +69,18 @@
       - [matrix addition](/c/classwork/matrix/matrix_addition.c)
       - [Multiplication](/c/classwork/matrix/matrix_multi.c)
       - [Transpose](/c/classwork/matrix/transpose_of_matrix.c)
-      
+
   43. [String](/code-homework-hub/c/classwork/october)
+      - [wap that accept a string and count total no of words.](/c/classwork/october/count_word_from_string.c)
       - [calculate viowel ,constant and space](c/classwork/october/calculate-viowel-constant-space.c)
       - [print character by character](c/classwork/october/print-character-by-character.c)
       - [calculate number of space](c/classwork/october/no-of-space.c)
+      - [wap to swap the string using third variable.](/c/classwork/october/swap_string.c)
+      - [.wap to check whether the input string is a palindrom string or not.](/c/classwork/october/string_palindrom.c)
+      - [wap to check whether a two string are anagram or not.](/c/classwork/october/anagram.c)
+
+
+
 
 # Python Assignment
  - [Home work](#py-assignments)

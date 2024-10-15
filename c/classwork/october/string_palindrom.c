@@ -1,3 +1,5 @@
+// .wap to check whether the input string is a palindrom string or not
+
 #include <stdio.h>
 #include <string.h>
 
@@ -28,3 +30,5 @@ void main() {
     (p) ? printf("The string \"%s\" is a palindrome.\n",rev) : printf("The string \"%s\" is not a palindrome.\n",rev);
 
 }
+
+
