@@ -43,7 +43,8 @@
   30. [WAP to check the number entered by user is a palindrom Number or Not.](/c/homeworks/august-2024/palindrom.c)
   31. [WAP to find a day from week using switch-case](/c/homeworks/august-2024/day-from-week-switch-case.c)
   32. [WAP to Check whether the given character is a Vowel or not using switch-case](/c/homeworks/august-2024/vowel-check.c)
-  33. [WAP to perform Arithmetic operations using switch-case](/day-1/control_structure/switch-case.c). [WAP to display fibonacci series using FOR loop](/c/homeworks/august-2024/fibonacci-series.c)
+  33. [WAP to perform Arithmetic operations using switch-case](/day-1/control_structure/switch-case.c).
+  34. [WAP to display fibonacci series using FOR loop](/c/homeworks/august-2024/fibonacci-series.c)
   34. [Write a program to generate a series: X/1! + X^2/2! + X^3/3! + ... + X^n/n!](/c/homeworks/august-2024/power-series.c)
   35. [WAP to check whether the number is an Armstrong number or not.](/c/homeworks/august-2024/armstrong.c)
   36. 
@@ -68,6 +69,11 @@
       - [matrix addition](/c/classwork/matrix/matrix_addition.c)
       - [Multiplication](/c/classwork/matrix/matrix_multi.c)
       - [Transpose](/c/classwork/matrix/transpose_of_matrix.c)
+      
+  43. [String](/code-homework-hub/c/classwork/october)
+      - [calculate viowel ,constant and space](c/classwork/october/calculate-viowel-constant-space.c)
+      - [print character by character](c/classwork/october/print-character-by-character.c)
+      - [calculate number of space](c/classwork/october/no-of-space.c)
 
 # Python Assignment
  - [Home work](#py-assignments)
@@ -77,4 +83,7 @@
  2. [Write a program that makes use of trigonometric functions available in math module.](/python/assignment/trigo_math.py)
  3. [Write a program that will convert various temperatures.(a) Fahrenheit to Centigrade (b) Centigrade to Fahrenheit](/python/assignment/f_to_c_c_to_f.py)
  4. [Write a program that will find the roots of a quadratic equation: ax² + bx + c = 0](/python/assignment/quadratic_equation.py)
+ 7. [Check a number enter by the user is odd or even](/python/assignment/odd_even.py)
+ 8. [Find the youngest amont syam , Dugu and Ishan whoes ages are enter by the user.](/python/assignment/age_difference.py)
+ 11. [WAP to find factorial of a number enter by the user.](/python/assignment/factorial.py)
  
