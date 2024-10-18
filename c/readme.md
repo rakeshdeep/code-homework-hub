@@ -15,12 +15,12 @@
   2.  [WAP to swap two number entered by user.](/c/homeworks/13-08-2024/swap-two-number.c)
   3.  [WAP to sift the last digit to the first position. if the input is a 3 digit number.](/c/homeworks/13-08-2024/sift-third-digit-to-first.c)
   4.  [WAP to optain the sum of the first and last digit of a four digit number enter by user](/c/homeworks/13-08-2024/sum-of-first-and-last-digit.c).
-  5.  [WAP to check user entered number is an Odd or Even](/c/homeworks/14-08-2024/odd-even.c).
-  6.  [WAP to find greatest among 3 number using ternary operator](/c/homeworks/14-08-2024/greatest-among-three.c).
-  7.  [WAP to check the ASCII code of a user entered char](/c/homeworks/14-08-2024/ascii-check.c).
-  8.  [WAP to swap two numbers using third variable](/c/homeworks/14-08-2024/num-swap-using-third-variable.c).
-  9.  [WAP to check the value of sin30](/c/homeworks/14-08-2024/check-sin30.c).
-  10. [WAP a program to add 2 in all digit of a five digit number entered by the user](/c/homeworks/14-08-2024/add2-in-all-digit-of-5-digit-num.c)
+  5.  [14/8/24][WAP to check user entered number is an Odd or Even](/c/homeworks/14-08-2024/odd-even.c).
+  6.  [14/8/24][WAP to find greatest among 3 number using ternary operator](/c/homeworks/14-08-2024/greatest-among-three.c).
+  7.  [14/8/24][WAP to check the ASCII code of a user entered char](/c/homeworks/14-08-2024/ascii-check.c).
+  8.  [14/8/24][WAP to swap two numbers using third variable](/c/homeworks/14-08-2024/num-swap-using-third-variable.c).
+  9.  [14/8/24][WAP to check the value of sin30](/c/homeworks/14-08-2024/check-sin30.c).
+  10. [14/8/24][WAP a program to add 2 in all digit of a five digit number entered by the user](/c/homeworks/14-08-2024/add2-in-all-digit-of-5-digit-num.c)
   11. [WAP to check greatest number between three number using nested If-else condition](/c/classwork/20-08-2024/greatest-number-among3-using-nested-if.c). X
   12. [Check whether a triangle is valid or not.](/c/classwork/20-08-2024/check-valid-triangle.c)
   13. [calculate the ratio of two int number if the ratio is greater then 0 then swap the number using 3rd variable.](/c/classwork/20-08-2024/check-ratio.c)

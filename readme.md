@@ -6,6 +6,6 @@
 - [C](/c/)
 - [Python](/python/)
 
-<p style="text-transform: capitalize ">maintain by: <a href="https://www.github.com/rakeshdeep" style="font-style:italic; text-decoration: underline;">Rakesh Deep</a>, <a href="https://www.github.com/SubhamTripathy-01" style="font-style:italic; text-decoration: underline;">Subham Tripathi</a></p>
+<p style="text-transform: capitalize ">maintain by: <a href="https://www.github.com/rakeshdeep" style="font-style:italic; text-decoration: underline;">Rakesh Deep</a>, <a href="https://www.github.com/SubhamTripathy-01" style="font-style:italic; text-decoration: underline;">Subham Tripathy</a></p>
 
 <p style="font-weight:bold; text-align:center;  ">Rajendra University Homework repo</p>
