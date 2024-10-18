@@ -21,9 +21,9 @@
   8.  [14-08-2024] [WAP to swap two numbers using third variable](/c/homeworks/14-08-2024/num-swap-using-third-variable.c).
   9.  [14-08-2024] [WAP to check the value of sin30](/c/homeworks/14-08-2024/check-sin30.c).
   10. [14-08-2024] [WAP a program to add 2 in all digit of a five digit number entered by the user](/c/homeworks/14-08-2024/add2-in-all-digit-of-5-digit-num.c)
-  11. [WAP to check greatest number between three number using nested If-else condition](/c/classwork/20-08-2024/greatest-number-among3-using-nested-if.c). 
-  12. [Check whether a triangle is valid or not.](/c/classwork/20-08-2024/check-valid-triangle.c)
-  13. [calculate the ratio of two int number if the ratio is greater then 0 then swap the number using 3rd variable.](/c/classwork/20-08-2024/check-ratio.c)
+  11. [20-08-2024] [WAP to check greatest number between three number using nested If-else condition](/c/classwork/20-08-2024/greatest-number-among3-using-nested-if.c). 
+  12. [20-08-2024] [Check whether a triangle is valid or not.](/c/classwork/20-08-2024/check-valid-triangle.c)
+  13. [20-08-2024] [calculate the ratio of two int number if the ratio is greater then 0 then swap the number using 3rd variable.](/c/classwork/20-08-2024/check-ratio.c)
   14. [ A Library charges a fine for every book return late for first 5 days the fine is 50 paisa, for 6-10 days fine is 1 rupee and above 1- days fine is 5 rupees if you return the book after 30 days your membership is cancel. WAP a program in c using if else](/c/homeworks/august-2024/library-charges.c)
   15. [WAP to find the grade of student based on marks](/c/homeworks/august-2024/grade-using-if-else.c).
   16. [23-08-2024] [WAP to print Even number between 1- 100 using while loop in c](/c/homeworks/august-2024/evenNumber-1-100.c).
