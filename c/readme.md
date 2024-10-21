@@ -11,10 +11,10 @@
 ### [C HomeWork:](/c/homeworks/)
 
 - #### [August HomeWork](/c/homeworks/august-2024/)
-  1.  [WAP to calculate the perimeter of rectangle.](/c/homeworks/13-08-2024/perimeter-rectangle.c)
-  2.  [WAP to swap two number entered by user.](/c/homeworks/13-08-2024/swap-two-number.c)
-  3.  [WAP to sift the last digit to the first position. if the input is a 3 digit number.](/c/homeworks/13-08-2024/sift-third-digit-to-first.c)
-  4.  [WAP to optain the sum of the first and last digit of a four digit number enter by user](/c/homeworks/13-08-2024/sum-of-first-and-last-digit.c).
+  1. [13-08-2024] [WAP to calculate the perimeter of rectangle.](/c/homeworks/13-08-2024/perimeter-rectangle.c)
+  2. [13-08-2024] [WAP to swap two number entered by user.](/c/homeworks/13-08-2024/swap-two-number.c)
+  3. [13-08-2024] [WAP to sift the last digit to the first position. if the input is a 3 digit number.](/c/homeworks/13-08-2024/sift-third-digit-to-first.c)
+  4. [13-08-2024] [WAP to optain the sum of the first and last digit of a four digit number enter by user](/c/homeworks/13-08-2024/sum-of-first-and-last-digit.c).
   5.  [14-08-2024] [WAP to check user entered number is an Odd or Even](/c/homeworks/14-08-2024/odd-even.c).
   6.  [14-08-2024] [WAP to find greatest among 3 number using ternary operator](/c/homeworks/14-08-2024/greatest-among-three.c).
   7.  [14-08-2024] [WAP to check the ASCII code of a user entered char](/c/homeworks/14-08-2024/ascii-check.c).
