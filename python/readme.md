@@ -12,3 +12,9 @@
  8. [Find the youngest amont syam , Dugu and Ishan whoes ages are enter by the user.](/python/assignment/age_difference.py)
  11. [WAP to find factorial of a number enter by the user.](/python/assignment/factorial.py)
  
+
+### Py Classwork
+ 1. [check palindrome from a given string](/python/classwork/pallindrom.py)
+ 2. [print words with their lenght of a string.](/python/classwork/word_length.py)
+ 3. [Even length word in a string.](/python/classwork/even_len_word.py)
+ 4. [find uncommon word from string](/python/classwork/uncommon_word.py)
