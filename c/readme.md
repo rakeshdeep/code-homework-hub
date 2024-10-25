@@ -80,7 +80,7 @@
       - [wap to check whether a two string are anagram or not.](/c/classwork/october/anagram.c)
 
 ### [C Classwork:](/c/classwork/)
-- #### [25-10-2024](/c/classwork/25-10-2024/)
+- #### [25-10-2024 { functions }](/c/classwork/25-10-2024/)
     - [WAP to find minimum of three number using function;](/c/classwork/25-10-2024/minimum_three_num.c)
     - [WAP to find maximum of three number using function;](/c/classwork/25-10-2024/max_three_num.c)
     - [WAP to SWAP two number using function;](/c/classwork/25-10-2024/swap_two_num.c)
