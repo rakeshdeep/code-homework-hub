@@ -86,3 +86,4 @@
     - [WAP to SWAP two number using function;](/c/classwork/25-10-2024/swap_two_num.c)
     - [WAP to find the factorial of a given number using function](/c/classwork/25-10-2024/factorial_func.c)
     - [WAP to display fibonacci series using function](/c/classwork/25-10-2024/fibonacci_func.c)
+    - [WAP to find area of a triangle using function](/c/classwork/28-10-2024/triangle_area.c)
