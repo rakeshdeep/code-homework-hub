@@ -19,6 +19,7 @@ void main()
         factorial *= i;
         term = pow(x, i) / factorial;
         sum += term;
+        printf("%.2f\n",term);
     }
-    printf("The sum of the series is: %.4f\n", sum);
+    // printf("The sum of the series is: %.4f\n", sum);
 }
