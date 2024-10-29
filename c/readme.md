@@ -47,7 +47,7 @@
   34. [WAP to display fibonacci series using FOR loop](/c/homeworks/august-2024/fibonacci-series.c)
   34. [Write a program to generate a series: X/1! + X^2/2! + X^3/3! + ... + X^n/n!](/c/homeworks/august-2024/power-series.c)
   35. [WAP to check whether the number is an Armstrong number or not.](/c/homeworks/august-2024/armstrong.c)
-  36. 
+  36. [WAP to check whether the number is prime or not](/c/homeworks/random/prime_num.c)
   37. 
   38. 
   39. 
