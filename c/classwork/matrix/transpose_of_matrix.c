@@ -15,7 +15,7 @@ void main() {
     printf("Transpose of Matrix  is: \n");
    for(int i=0; i<c; i++){
     for(int j=0; j<r; j++){
-        printf("%d ",a[i][j]);
+        printf("%d ",a[j][i]);
     }
     printf("\n");
    }
