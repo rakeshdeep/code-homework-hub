@@ -63,6 +63,10 @@
       - [delete array element](/c/classwork/array/delete_element.c)
       - [Reverse of Array](/c/classwork/array/reverse_arr.c)
       - [Duplicate element remove from array](/c/classwork/array/duplicate_elemet_remove.c)
+      - [Sum and average](/c/classwork/array/sum-average-array.c)
+      - [minimum and maximum](/c/classwork/array/minimum-maximum.c)
+      - [Even value array](/c/classwork/array/even-arrays.c)
+      - [Odd value array](/c/classwork/array/odd-array.c)
 
   42. [Matrix](/code-homework-hub/c/classwork/matrix/)
       - [input and print](/c/classwork/matrix/input_print_matrix.c)
