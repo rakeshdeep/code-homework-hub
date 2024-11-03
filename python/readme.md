@@ -10,7 +10,11 @@
  4. [Write a program that will find the roots of a quadratic equation: ax² + bx + c = 0](/python/assignment/quadratic_equation.py)
  7. [Check a number enter by the user is odd or even](/python/assignment/odd_even.py)
  8. [Find the youngest amont syam , Dugu and Ishan whoes ages are enter by the user.](/python/assignment/age_difference.py)
- 11. [WAP to find factorial of a number enter by the user.](/python/assignment/factorial.py)
+ 9. [10. Write a program that will print the odd numbers from n1 to n2 where the values of n1 and n2 are entered by the user.](/python/assignment/2-11-2024/odd_number_series.py)
+ 10. [11. WAP to find factorial of a number enter by the user.](/python/assignment/factorial.py)
+ 11. [12. Write a program to print all prime numbers between n1 to n2 where the values of n1 and n2 are entered by the user.](/python/assignment/2-11-2024/prime_number_series.py)
+ 12. [15. Write a program to ask the data of five students that contain name, roll number, age. Sort the list based on roll number of the Student.](/python/assignment/2-11-2024/nested_list.py)
+ 
  
 
 ### Py Classwork
