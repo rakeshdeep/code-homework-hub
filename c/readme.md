@@ -94,3 +94,5 @@
 
  - [04-11-2024](/c/classwork/4-11-2024/)
     - [WAP a program to check the number is armstrong or not using function](/c/classwork/4-11-2024/func_armstrong.c).
+    - [ WAP to check whether the number is prime or not using function](/c/classwork/4-11-2024/func_prime.c)
+    - [WAP t find the square of a number using function](/c/classwork/4-11-2024/fuc_square.c)
