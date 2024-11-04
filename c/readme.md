@@ -91,3 +91,10 @@
     - [WAP to find the factorial of a given number using function](/c/classwork/25-10-2024/factorial_func.c)
     - [WAP to display fibonacci series using function](/c/classwork/25-10-2024/fibonacci_func.c)
     - [WAP to find area of a triangle using function](/c/classwork/28-10-2024/triangle_area.c)
+
+ - [04-11-2024](/c/classwork/4-11-2024/)
+    - [WAP a program to check the number is armstrong or not using function](/c/classwork/4-11-2024/func_armstrong.c).
+    - [ WAP to check whether the number is prime or not using function](/c/classwork/4-11-2024/func_prime.c)
+    - [WAP t find the square of a number using function](/c/classwork/4-11-2024/fuc_square.c)
+    - [WAP to print odd even number using function.](/c/classwork/4-11-2024/odd_even_func.c).
+    - [wap to print the Greatest  element of array using Function](/c/classwork/4-11-2024/func_biggest_num_array.c)
