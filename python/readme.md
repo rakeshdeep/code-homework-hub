@@ -15,6 +15,7 @@
  11. [12. Write a program to print all prime numbers between n1 to n2 where the values of n1 and n2 are entered by the user.](/python/assignment/2-11-2024/prime_number_series.py)
  12. [15. Write a program to ask the data of five students that contain name, roll number, age. Sort the list based on roll number of the Student.](/python/assignment/2-11-2024/nested_list.py)
  13. [9 Given the point (x1,y1), (x2,y2), (x3,y3) WAP to check all the point falls on straight line.](/python/assignment/7-11-2024/straight_line_prove.py)
+ 14. [13. Write a program to demonstrate basic operations on the list.](/python/assignment/7-11-2024/list_operation.py)
  
  
 
