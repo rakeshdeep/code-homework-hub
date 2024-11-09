@@ -9,7 +9,7 @@ while originalNum != 0:
 
 while(originalNum != 0):
     remainder = originalNum % 10
-    result = result + (remainder ** n)
+    result = result + (remainder ** i)
     originalNum = originalNum/10
 
 if(result == n):
