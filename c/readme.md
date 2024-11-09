@@ -98,3 +98,5 @@
     - [WAP t find the square of a number using function](/c/classwork/4-11-2024/fuc_square.c)
     - [WAP to print odd even number using function.](/c/classwork/4-11-2024/odd_even_func.c).
     - [wap to print the Greatest  element of array using Function](/c/classwork/4-11-2024/func_biggest_num_array.c)
+- [8-11-2024](/c/classwork/8-11-2024/)
+    - [WAP to check perfect number using function](/c/classwork/8-11-2024/perfect_num.c)
