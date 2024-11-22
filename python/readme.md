@@ -26,3 +26,4 @@
  4. [find uncommon word from string](/python/classwork/uncommon_word.py)
  5. [wap to find perfect num.](/python/classwork/perfect_num.py)
  6. [WAP to check armstrong number.](/python/classwork/armstrong_num.py)
+ 
