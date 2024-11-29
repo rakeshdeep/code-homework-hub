@@ -24,7 +24,6 @@
  2. [print words with their lenght of a string.](/python/classwork/word_length.py)
  3. [Even length word in a string.](/python/classwork/even_len_word.py)
  4. [find uncommon word from string](/python/classwork/uncommon_word.py)
-
- 5. [List methods](/python/assignment/7-11-2024/list_operation.py)
- 6. [Tuple methods](/python/assignment/7-11-2024/tuple_operation.py)
- 7. [Set Methods](/python/assignment/7-11-2024/set_operation.py)
+ 5. [wap to find perfect num.](/python/classwork/perfect_num.py)
+ 6. [WAP to check armstrong number.](/python/classwork/armstrong_num.py)
+ 
