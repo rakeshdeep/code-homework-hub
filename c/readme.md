@@ -101,3 +101,9 @@
 - [8-11-2024](/c/classwork/8-11-2024/)
     - [WAP to check perfect number using function](/c/classwork/8-11-2024/perfect_num.c)
 - [20-11-2024](/c/classwork/20-08-2024/)
+
+- [29-11-2024 function Recursion](/c/classwork/29-11-2024/)
+    - [WAP to find GCD using function recursion](/c/classwork/29-11-2024/to_check_GCD.c)
+    - [WAP to find power of a number using function recursion](/c/classwork/29-11-2024/checking_power.c)
+
+     
