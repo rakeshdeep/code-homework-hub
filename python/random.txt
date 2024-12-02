@@ -1,0 +1,72 @@
+#include <stdio.h>
+
+void decToBin(int n) {
+    int bin[32], i = 0;
+    if (n == 0) {
+        printf("0");
+        return;
+    }
+    while (n > 0) {
+        bin[i++] = n % 2;
+        n /= 2;
+    }
+    for (int j = i - 1; j >= 0; j--) {
+        printf("%d", bin[j]);
+    }
+}
+
+int main() {
+    int n;
+    printf("Enter a decimal number: ");
+    scanf("%d", &n);
+    printf("The binary equivalent is: ");
+    decToBin(n);
+    printf("\n");
+    return 0;
+}
+
+
+
+
+
+
+
+#include <stdio.h>
+#include <math.h>
+
+// Function prototype
+int binaryToDecimal(long long binary);
+
+int main() {
+    long long binary;
+    int decimal;
+
+    // Prompt user for binary input
+    printf("Enter a binary number: ");
+    scanf("%lld", &binary);
+
+    // Call the conversion function
+    decimal = binaryToDecimal(binary);
+
+    // Display the result
+    printf("The decimal equivalent is: %d\n", decimal);
+
+    return 0;
+}
+
+// Function to convert binary to decimal
+int binaryToDecimal(long long binary) {
+    int decimal = 0;
+    int base = 0;  // Power of 2
+    int remainder;
+
+    // Process each binary digit
+    while (binary != 0) {
+        remainder = binary % 10;        // Get the last digit
+        decimal += remainder * pow(2, base); // Calculate decimal value
+        binary /= 10;                  // Remove the last digit
+        base++;                        // Increment power of 2
+    }
+
+    return decimal;
+}
