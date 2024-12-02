@@ -100,3 +100,7 @@
     - [wap to print the Greatest  element of array using Function](/c/classwork/4-11-2024/func_biggest_num_array.c)
 - [8-11-2024](/c/classwork/8-11-2024/)
     - [WAP to check perfect number using function](/c/classwork/8-11-2024/perfect_num.c)
+
+- [02-12-2024](/c/classwork/2-12-2024/)
+    - [Binary to Decimal conversion using Function.](/c/classwork/2-12-2024/binary_decimal.c)
+    - [Decimal to Binary  conversion using Function.](/c/classwork/2-12-2024/decimal_binary.c)
