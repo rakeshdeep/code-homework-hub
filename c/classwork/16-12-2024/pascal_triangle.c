@@ -2,11 +2,11 @@
 
 void pascal(int n)
 {
-    int a, b, c;
-    for (a = 0; a < n; a++)
+    
+    for (int a = 0; a < n; a++)
     {
-        c = 1;
-        for (b = 0; b <= a; b++)
+        int c = 1;
+        for (int b = 0; b <= a; b++)
         {
             printf("%d ", c);
             c = c * (a - b) / (b + 1);

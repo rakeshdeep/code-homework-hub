@@ -104,3 +104,7 @@
 - [02-12-2024](/c/classwork/2-12-2024/)
     - [Binary to Decimal conversion using Function.](/c/classwork/2-12-2024/binary_decimal.c)
     - [Decimal to Binary  conversion using Function.](/c/classwork/2-12-2024/decimal_binary.c)
+
+- [16-12-2024](/c/classwork/16-12-2024/)
+    - [WAP to find the root of a quadratic equation.](/c/classwork/16-12-2024/quadratic_eq.c)
+    - [WAP a to generate pascal's Triangle unto nth row entered by user](/c/classwork/16-12-2024/pascal_triangle.c)
