@@ -108,3 +108,4 @@
 - [16-12-2024](/c/classwork/16-12-2024/)
     - [WAP to find the root of a quadratic equation.](/c/classwork/16-12-2024/quadratic_eq.c)
     - [WAP a to generate pascal's Triangle unto nth row entered by user](/c/classwork/16-12-2024/pascal_triangle.c)
+    - [WAP a to find square root of a quadratic eq. using Pointer variable](/c/classwork/16-12-2024/quadratic_eq_using_pointer.c)
