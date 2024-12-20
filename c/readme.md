@@ -82,6 +82,8 @@
       - [wap to swap the string using third variable.](/c/classwork/october/swap_string.c)
       - [.wap to check whether the input string is a palindrom string or not.](/c/classwork/october/string_palindrom.c)
       - [wap to check whether a two string are anagram or not.](/c/classwork/october/anagram.c)
+      - [WAP a program to reverse a STRING](/c/classwork/strings/string_reverse.c)
+      - [WAP a progam to display String Function](/c/classwork/strings/str_function.c)
 
 ### [C Classwork:](/c/classwork/)
 - #### [25-10-2024 { functions }](/c/classwork/25-10-2024/)
