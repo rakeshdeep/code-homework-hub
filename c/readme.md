@@ -100,4 +100,12 @@
     - [wap to print the Greatest  element of array using Function](/c/classwork/4-11-2024/func_biggest_num_array.c)
 - [8-11-2024](/c/classwork/8-11-2024/)
     - [WAP to check perfect number using function](/c/classwork/8-11-2024/perfect_num.c)
-- [20-11-2024](/c/classwork/20-08-2024/)
+
+- [02-12-2024](/c/classwork/2-12-2024/)
+    - [Binary to Decimal conversion using Function.](/c/classwork/2-12-2024/binary_decimal.c)
+    - [Decimal to Binary  conversion using Function.](/c/classwork/2-12-2024/decimal_binary.c)
+
+- [16-12-2024](/c/classwork/16-12-2024/)
+    - [WAP to find the root of a quadratic equation.](/c/classwork/16-12-2024/quadratic_eq.c)
+    - [WAP a to generate pascal's Triangle unto nth row entered by user](/c/classwork/16-12-2024/pascal_triangle.c)
+    - [WAP a to find square root of a quadratic eq. using Pointer variable](/c/classwork/16-12-2024/quadratic_eq_using_pointer.c)
