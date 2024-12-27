@@ -112,8 +112,10 @@
     - [WAP a to generate pascal's Triangle unto nth row entered by user](/c/classwork/16-12-2024/pascal_triangle.c)
     - [WAP a to find square root of a quadratic eq. using Pointer variable](/c/classwork/16-12-2024/quadratic_eq_using_pointer.c)
 
-- #### [28-12-2024](/c/classwork/)
+- #### [27-12-2024](/c/classwork/)
     - [WAP to print memory address of each cell in an array using adress of operator](/c/classwork/27-12-2024/array_adress.c)
     - [WAP to print memory address of each cell in an array using pointer](/c/classwork/27-12-2024/address_of_each_cell.c)
     - [WAP to print element in array using point](/c/classwork/27-12-2024/print_element.c)
     - [WAP to access nth element of array using pointer](/c/classwork/27-12-2024/access_nth_el.c)
+    - [WAP to reverse the element of an array](/c/classwork/27-12-2024/reverse_el_array.c)
+    - [WAP to print the SUM and Avg of Array Element using pointer](/c/classwork/27-12-2024/Sum_avg.c)
