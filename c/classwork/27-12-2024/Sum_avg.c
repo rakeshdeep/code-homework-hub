@@ -1,4 +1,4 @@
-// WAP to reverse the elements of an array.
+// WAP to print the sum and Average of elements of an array.
 
 #include <stdio.h>
 void main()
@@ -18,10 +18,11 @@ void main()
         printf("%d ", arr[i]);
     }
     printf("\n");
-    printf("The elements of the array in reverse order are: ");
-    for (int i = n - 1; i >= 0; i--)
+    int sum = 0;
+    for (int i = 0; i < n; i++)
     {
-        printf("%d ", arr[i]);
+        sum += arr[i];
     }
-    printf("\n");
+    printf("The sum of the elements of the array is: %d\n", sum);
+    printf("The average of the elements of the array is: %f\n", (float)sum / n);
 }
