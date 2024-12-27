@@ -1,4 +1,4 @@
-// WAP to print the sum and Average of elements of an array.
+// WAP to print the sum and Average of elements of an array using pointer.
 
 #include <stdio.h>
 void main()
@@ -24,5 +24,7 @@ void main()
         sum += arr[i];
     }
     printf("The sum of the elements of the array is: %d\n", sum);
-    printf("The average of the elements of the array is: %f\n", (float)sum / n);
+    float avg = sum / n;
+    printf("The average of the elements of the array is: %.3f\n", avg);
 }
+
