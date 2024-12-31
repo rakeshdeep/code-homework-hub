@@ -16,6 +16,8 @@
  12. [15. Write a program to ask the data of five students that contain name, roll number, age. Sort the list based on roll number of the Student.](/python/assignment/2-11-2024/nested_list.py)
  13. [9 Given the point (x1,y1), (x2,y2), (x3,y3) WAP to check all the point falls on straight line.](/python/assignment/7-11-2024/straight_line_prove.py)
  14. [13. Write a program to demonstrate basic operations on the list.](/python/assignment/7-11-2024/list_operation.py)
+ 15. [5. WAP to demonstrate String functions](/python/assignment/31-12-2024/stringFunctions.py)
+ 16. [6. WAP to that will ask you to enter your name, through keyboard, and perform following operations. (a)Find the middle name (b) Find the last name (using string slicing) (c)Re-write the name with surname first.](/python/assignment/31-12-2024/name_operation.py)
  
  
 
