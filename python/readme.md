@@ -18,6 +18,8 @@
  14. [13. Write a program to demonstrate basic operations on the list.](/python/assignment/7-11-2024/list_operation.py)
  15. [5. WAP to demonstrate String functions](/python/assignment/31-12-2024/stringFunctions.py)
  16. [6. WAP to that will ask you to enter your name, through keyboard, and perform following operations. (a)Find the middle name (b) Find the last name (using string slicing) (c)Re-write the name with surname first.](/python/assignment/31-12-2024/name_operation.py)
+ 17. [14.	Write a program to demonstrate stack and queue operations using a list of numbers.](/python/assignment/4-1-2025/stack_queue_operation.py)
+ 18. [16.	Write a program that will add two square matrices. The dimension and elements of the matrices will be entered by the user.](/python/assignment/4-1-2025/matrix_addition.py)
  
  
 
