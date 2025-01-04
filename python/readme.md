@@ -16,6 +16,10 @@
  12. [15. Write a program to ask the data of five students that contain name, roll number, age. Sort the list based on roll number of the Student.](/python/assignment/2-11-2024/nested_list.py)
  13. [9 Given the point (x1,y1), (x2,y2), (x3,y3) WAP to check all the point falls on straight line.](/python/assignment/7-11-2024/straight_line_prove.py)
  14. [13. Write a program to demonstrate basic operations on the list.](/python/assignment/7-11-2024/list_operation.py)
+ 15. [5. WAP to demonstrate String functions](/python/assignment/31-12-2024/stringFunctions.py)
+ 16. [6. WAP to that will ask you to enter your name, through keyboard, and perform following operations. (a)Find the middle name (b) Find the last name (using string slicing) (c)Re-write the name with surname first.](/python/assignment/31-12-2024/name_operation.py)
+ 17. [14.	Write a program to demonstrate stack and queue operations using a list of numbers.](/python/assignment/4-1-2025/stack_queue_operation.py)
+ 18. [16.	Write a program that will add two square matrices. The dimension and elements of the matrices will be entered by the user.](/python/assignment/4-1-2025/matrix_addition.py)
  
  
 
@@ -26,4 +30,5 @@
  4. [find uncommon word from string](/python/classwork/uncommon_word.py)
  5. [wap to find perfect num.](/python/classwork/perfect_num.py)
  6. [WAP to check armstrong number.](/python/classwork/armstrong_num.py)
+ 7. [WAP to create a list of list containing science, arts and comerce (within them would be unique subject) check if the list elements are repeating  or not and print only unique elements](/python/classwork/list_of_list.py)
  
