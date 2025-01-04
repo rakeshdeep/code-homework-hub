@@ -30,4 +30,5 @@
  4. [find uncommon word from string](/python/classwork/uncommon_word.py)
  5. [wap to find perfect num.](/python/classwork/perfect_num.py)
  6. [WAP to check armstrong number.](/python/classwork/armstrong_num.py)
+ 7. [WAP to create a list of list containing science, arts and comerce (within them would be unique subject) check if the list elements are repeating  or not and print only unique elements](/python/classwork/list_of_list.py)
  
