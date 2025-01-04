@@ -1,17 +1,19 @@
-// WAP to copy string using pointer
-
+// WAP to copy string using pointer with call by reference
 #include <stdio.h>
-void main(){
-    char str1[100], str2[100], *p1, *p2;
+
+void strCpy(char *source, char *dest) {
+    while(*source != '\0') {
+        *dest = *source;
+        source++;
+        dest++;
+    }
+    *dest = '\0';
+}
+
+void main() {
+    char str1[100], str2[100];
     printf("Enter a string: ");
     gets(str1);
-    p1 = str1;
-    p2 = str2;
-    while(*p1 != '\0'){
-        *p2 = *p1;
-        p1++;
-        p2++;
-    }
-    *p2 = '\0';
+    strCpy(str1, str2);
     printf("Copied string: %s\n", str2);
 }
