@@ -102,6 +102,7 @@
     - [wap to print the Greatest  element of array using Function](/c/classwork/4-11-2024/func_biggest_num_array.c)
 - [8-11-2024](/c/classwork/8-11-2024/)
     - [WAP to check perfect number using function](/c/classwork/8-11-2024/perfect_num.c)
+<<<<<<< HEAD
 
 - [02-12-2024](/c/classwork/2-12-2024/)
     - [Binary to Decimal conversion using Function.](/c/classwork/2-12-2024/binary_decimal.c)
@@ -120,3 +121,12 @@
     - [WAP to reverse the element of an array](/c/classwork/27-12-2024/reverse_el_array.c)
     - [WAP to print the SUM and Avg of Array Element using pointer](/c/classwork/27-12-2024/Sum_avg.c)
     - [Print all the memory location stored in a pointer array](/c/classwork/28-12-2024/memory_loc.c)
+=======
+- [20-11-2024](/c/classwork/20-08-2024/)
+
+- [29-11-2024 function Recursion](/c/classwork/29-11-2024/)
+    - [WAP to find GCD using function recursion](/c/classwork/29-11-2024/to_check_GCD.c)
+    - [WAP to find power of a number using function recursion](/c/classwork/29-11-2024/checking_power.c)
+
+     
+>>>>>>> df6bbbdc9592e4cc365b347d6deee03c9fbf66c4
