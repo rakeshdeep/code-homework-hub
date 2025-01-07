@@ -82,6 +82,8 @@
       - [wap to swap the string using third variable.](/c/classwork/october/swap_string.c)
       - [.wap to check whether the input string is a palindrom string or not.](/c/classwork/october/string_palindrom.c)
       - [wap to check whether a two string are anagram or not.](/c/classwork/october/anagram.c)
+      - [WAP a program to reverse a STRING](/c/classwork/strings/string_reverse.c)
+      - [WAP a progam to display String Function](/c/classwork/strings/str_function.c)
 
 ### [C Classwork:](/c/classwork/)
 - #### [25-10-2024 { functions }](/c/classwork/25-10-2024/)
@@ -100,3 +102,21 @@
     - [wap to print the Greatest  element of array using Function](/c/classwork/4-11-2024/func_biggest_num_array.c)
 - [8-11-2024](/c/classwork/8-11-2024/)
     - [WAP to check perfect number using function](/c/classwork/8-11-2024/perfect_num.c)
+
+- [02-12-2024](/c/classwork/2-12-2024/)
+    - [Binary to Decimal conversion using Function.](/c/classwork/2-12-2024/binary_decimal.c)
+    - [Decimal to Binary  conversion using Function.](/c/classwork/2-12-2024/decimal_binary.c)
+
+- [16-12-2024](/c/classwork/16-12-2024/)
+    - [WAP to find the root of a quadratic equation.](/c/classwork/16-12-2024/quadratic_eq.c)
+    - [WAP a to generate pascal's Triangle unto nth row entered by user](/c/classwork/16-12-2024/pascal_triangle.c)
+    - [WAP a to find square root of a quadratic eq. using Pointer variable](/c/classwork/16-12-2024/quadratic_eq_using_pointer.c)
+
+- #### [27-12-2024](/c/classwork/)
+    - [WAP to print memory address of each cell in an array using adress of operator](/c/classwork/27-12-2024/array_adress.c)
+    - [WAP to print memory address of each cell in an array using pointer](/c/classwork/27-12-2024/address_of_each_cell.c)
+    - [WAP to print element in array using point](/c/classwork/27-12-2024/print_element.c)
+    - [WAP to access nth element of array using pointer](/c/classwork/27-12-2024/access_nth_el.c)
+    - [WAP to reverse the element of an array](/c/classwork/27-12-2024/reverse_el_array.c)
+    - [WAP to print the SUM and Avg of Array Element using pointer](/c/classwork/27-12-2024/Sum_avg.c)
+    - [Print all the memory location stored in a pointer array](/c/classwork/28-12-2024/memory_loc.c)
