@@ -21,6 +21,9 @@
  17. [14.	Write a program to demonstrate stack and queue operations using a list of numbers.](/python/assignment/4-1-2025/stack_queue_operation.py)
  18. [16.	Write a program that will add two square matrices. The dimension and elements of the matrices will be entered by the user.](/python/assignment/4-1-2025/matrix_addition.py)
  19. [17. WAP to demonstrate basic Tuple operations](/python/assignment/5-1-2025/tuple_operation.py)
+ 20. [19. Write a program to demonstrate basic operation on the set](/python/assignment/9-1-2025/set_operation.py)
+ 21. [20.	Create an empty set. Write a program that adds five student names to this set, modifies one existing name, and deletes two names existing in it. [ask the user which name to modify/delete].](/python/assignment/9-1-2025/student_data_set.py)
+ 22. [21.	Write a program to demonstrate basic operations on the dictionary](/python/assignment/9-1-2025/dict_operation.py)
  
  
 
