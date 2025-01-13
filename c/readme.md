@@ -120,3 +120,5 @@
     - [WAP to reverse the element of an array](/c/classwork/27-12-2024/reverse_el_array.c)
     - [WAP to print the SUM and Avg of Array Element using pointer](/c/classwork/27-12-2024/Sum_avg.c)
     - [Print all the memory location stored in a pointer array](/c/classwork/28-12-2024/memory_loc.c)
+- ### [C Struct ()](/c/classwork/structure_10-1-2025/)
+    - [WAP to demonstrate Structture in C ](/c/classwork/structure_10-1-2025/struct_pro.c)
