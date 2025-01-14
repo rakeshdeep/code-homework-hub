@@ -13,8 +13,15 @@ def create_dict():
     return students_dict
 
 def search_student(students_dict):
-    roll = input("Enter roll number of student to search: ")
-    if roll in students_dict:
-        print(f"Data of student with roll number {roll}: {students_dict[roll]}")
-    else:
-        print("Student not found")
+    search= input("Enter the name of the student: ")
+    found=False
+    for roll, data in students_dict.items():
+        if data[0]==search:
+            print(f"Student found with roll number {roll} , name {data[0]}")
+            found=True
+            break
+    if not found:
+        print(f"{search} not found in the dictionary")
+
+students_dict = create_dict()
+search_student(students_dict)
