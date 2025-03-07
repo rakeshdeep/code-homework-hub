@@ -1,3 +1,5 @@
+// WAP to merge two arrays and sort the merged array using Any Sort.
+
 #include <stdio.h>
 
 // Function to merge two arrays
@@ -22,9 +24,10 @@ void sortArray(int arr[], int size) {
         for (int j = 0; j < size - i - 1; j++) {
             if (arr[j] > arr[j + 1]) {
                 // Swap
-                int temp = arr[j];
-                arr[j] = arr[j + 1];
-                arr[j + 1] = temp;
+                // int temp = arr[j];
+                // arr[j] = arr[j + 1];
+                // arr[j + 1] = temp;
+                arr[j] = arr[j] + arr[j + 1] - (arr[j + 1] = arr[j]);
             }
         }
     }

@@ -4,7 +4,7 @@
 
 - [Classwork](#c-classwork)
 - [homework](#c-homework)
-- Assignments
+- [Assignments](#assignments)
 
 <!-- ### [C ClassWork](/classwork/) -->
 
@@ -122,3 +122,9 @@
     - [Print all the memory location stored in a pointer array](/c/classwork/28-12-2024/memory_loc.c)
 - ### [C Struct ()](/c/classwork/structure_10-1-2025/)
     - [WAP to demonstrate Structture in C ](/c/classwork/structure_10-1-2025/struct_pro.c)
+
+
+
+## Assignments
+
+- [WAP to merge two arrays and sort the merged array using Any Sort.](/c/1st_sem_selective/merging_array_sorting.c)
