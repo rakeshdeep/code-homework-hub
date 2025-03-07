@@ -17,6 +17,20 @@ int binToDec(long long b){
     
 }
 
+int decToBin(int d){
+    long long b = 0;
+    int i = 1;
+    int rem;
+    while (d!=0)
+    {
+        rem = d % 2;
+        d /= 2;
+        b += rem * i;
+        i *= 10;
+    }
+    return b;
+}
+
 void main() {
     long long b;
     int d;
@@ -24,4 +38,8 @@ void main() {
     scanf("%lld",&b);
     d = binToDec(b);
     printf("Decimal of %lld is %d",b,d);
+    printf("\nEnter a Decimal Number:");
+    scanf("%d",&d);
+    b = decToBin(d);
+    printf("Binary of %d is %lld",d,b);
 }
