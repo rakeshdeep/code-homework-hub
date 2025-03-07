@@ -1,6 +1,7 @@
+// WAP to merge two arrays and sort the merged array using Any Sort.
 
 #include<stdio.h>
-
+// Function to merge two arrays
 void mergeArray(int arr1[], int s1, int arr2[], int s2, int result[])
 {
     int i,j,k;
@@ -14,7 +15,7 @@ void mergeArray(int arr1[], int s1, int arr2[], int s2, int result[])
         result[k++] = arr2[j];
     }
 }
-
+// Function to sort an array using Bubble Sort
 void sortArray(int arr[], int size)
 {
     for(int i=0; i<size-1; i++ )
